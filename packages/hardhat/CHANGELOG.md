@@ -1,5 +1,11 @@
 # @typechain/hardhat
 
+## 6.1.1
+
+### Patch Changes
+
+- 1663b98: Respect the `--quiet` flag
+
 ## 6.1.0
 
 ### Minor Changes
